@@ -6,7 +6,7 @@ This project involves designing a comprehensive IoT system from the sensor/actua
 ## Goal
 This project combines hardware and software components to build a robust IoT system, enhancing our understanding of distributed systems, secure communication, and real-time data management. 
 
-### Disclaimer
+### Note
 The code will be uploaded soon, for legal matters.
 
 ## Grade
